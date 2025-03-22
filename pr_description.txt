@@ -1,1 +1,2 @@
- 
+ - bump version to 0.2.1
+ - updated release_notes file
