@@ -8,7 +8,7 @@
 - Tested issue linking and multi-line messages
 
 ## Breaking Changes
-None
+No breaking changes
 
 ## Dependencies
 No changes to dependencies
