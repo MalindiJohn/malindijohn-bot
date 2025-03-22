@@ -1,3 +1,9 @@
+# MalindiJohn Bot
+
+... hold on there for a while. Something cool is coming soon.
+
+## Installation
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
