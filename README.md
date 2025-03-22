@@ -1,2 +1,3 @@
-# malindijohn-bot
-A simple chatbot to interact with about anything
+# MalindiJohn Bot
+
+... hold on there for a while. Something cool is coming soon.
